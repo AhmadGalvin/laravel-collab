@@ -4,7 +4,7 @@
     <title>Welcome Page</title>
 </head>
 <body>
-    <h1>Welcome to Laravel!</h1>
-    <p>Welcome again from views</p>
+    <h1>Banyak Tugas</h1>
+    <p>Cape Gasi</p>
 </body>
 </html>
